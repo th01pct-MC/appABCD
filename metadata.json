@@ -1,0 +1,6 @@
+{
+  "name": "Hệ Thống Kiểm Tra Trắc Nghiệm - Cô Hà Thị Minh Châu",
+  "description": "Hệ thống kiểm tra trắc nghiệm và đúng/sai chuyên nghiệp dành cho giáo viên và học sinh với nhận diện đáp án thông minh từ file DOCX (chữ đỏ, gạch chân), chấm điểm bảo mật server-side và quản lý kết quả toàn diện.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
